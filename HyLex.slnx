@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HyLex.Benchmarks/HyLex.Benchmarks.fsproj" Id="b2f2e0d3-275d-43b2-9099-673767b839f4" />
+  <Project Path="HyLex.Core/HyLex.Core.fsproj" />
+  <Project Path="HyLex.Test/HyLex.Test.fsproj" />
+</Solution>
